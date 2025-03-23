@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: 数据驱动力
+SEOTitle: 数据驱动力 | Data Moment
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+email: 2249139525@qq.com
+description: "这里是 数据驱动力 的个人博客，专注数据领域，为你挖掘数据背后的无限可能"
+keyword: "数据驱动力, Data Moment, 数据博客, 数据科学, 数据分析, 数据应用"
+url: "可替换为你的网站地址" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: 可替换为你的微博用户名
+zhihu_username: 可替换为你的知乎用户名
+github_username: 可替换为你的GitHub用户名
+twitter_username: 可替换为你的Twitter用户名
+#facebook_username:  可替换为你的Facebook用户名
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: 可替换为你的Disqus用户名
 
 # Netease settings
 netease_comment: false
@@ -69,13 +69,13 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 可替换为你的Google Analytics跟踪ID # Format: UA-xxxxxx-xx
+ga_domain: 可替换为你的域名
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "探索数据奥秘，释放数据驱动力 <br> 专注数据领域分享"
+sidebar-avatar: 可替换为你的头像URL # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
